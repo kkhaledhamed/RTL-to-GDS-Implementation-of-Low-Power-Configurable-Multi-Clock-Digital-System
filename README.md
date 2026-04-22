@@ -62,8 +62,6 @@ The system receives commands via UART, executes arithmetic/logic operations or r
 - Pre-DFT and post-DFT design rule checking passed.  
 - **DFT coverage > 98%**.  
 
-<img width="800" alt="DFT Coverage" src="images/dft_coverage.png">  
-
 ---
 
 ### Phase 5 – Formality & Equivalence Checking  
