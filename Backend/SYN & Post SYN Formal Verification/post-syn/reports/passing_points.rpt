@@ -1,0 +1,1143 @@
+**************************************************
+Report         : passing_points
+
+Reference      : Ref:/WORK/SYS_TOP
+Implementation : Imp:/WORK/SYS_TOP
+Version        : L-2016.03-SP1
+Date           : Wed Oct  1 17:54:52 2025
+**************************************************
+
+369 Passing compare points:
+
+  Ref  LAT        Ref:/WORK/SYS_TOP/CLOCK_GATE_UNIT/U0_TLATNCAX12M
+  Impl LAT        Imp:/WORK/SYS_TOP/CLOCK_GATE_UNIT/U0_TLATNCAX12M
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/ALU_UNIT/ALU_OUT_VALID_reg
+  Impl DFF        Imp:/WORK/SYS_TOP/ALU_UNIT/ALU_OUT_VALID_reg
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/ALU_UNIT/ALU_OUT_reg[0]
+  Impl DFF        Imp:/WORK/SYS_TOP/ALU_UNIT/ALU_OUT_reg[0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/ALU_UNIT/ALU_OUT_reg[10]
+  Impl DFF        Imp:/WORK/SYS_TOP/ALU_UNIT/ALU_OUT_reg[10]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/ALU_UNIT/ALU_OUT_reg[11]
+  Impl DFF        Imp:/WORK/SYS_TOP/ALU_UNIT/ALU_OUT_reg[11]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/ALU_UNIT/ALU_OUT_reg[12]
+  Impl DFF        Imp:/WORK/SYS_TOP/ALU_UNIT/ALU_OUT_reg[12]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/ALU_UNIT/ALU_OUT_reg[13]
+  Impl DFF        Imp:/WORK/SYS_TOP/ALU_UNIT/ALU_OUT_reg[13]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/ALU_UNIT/ALU_OUT_reg[14]
+  Impl DFF        Imp:/WORK/SYS_TOP/ALU_UNIT/ALU_OUT_reg[14]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/ALU_UNIT/ALU_OUT_reg[15]
+  Impl DFF        Imp:/WORK/SYS_TOP/ALU_UNIT/ALU_OUT_reg[15]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/ALU_UNIT/ALU_OUT_reg[1]
+  Impl DFF        Imp:/WORK/SYS_TOP/ALU_UNIT/ALU_OUT_reg[1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/ALU_UNIT/ALU_OUT_reg[2]
+  Impl DFF        Imp:/WORK/SYS_TOP/ALU_UNIT/ALU_OUT_reg[2]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/ALU_UNIT/ALU_OUT_reg[3]
+  Impl DFF        Imp:/WORK/SYS_TOP/ALU_UNIT/ALU_OUT_reg[3]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/ALU_UNIT/ALU_OUT_reg[4]
+  Impl DFF        Imp:/WORK/SYS_TOP/ALU_UNIT/ALU_OUT_reg[4]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/ALU_UNIT/ALU_OUT_reg[5]
+  Impl DFF        Imp:/WORK/SYS_TOP/ALU_UNIT/ALU_OUT_reg[5]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/ALU_UNIT/ALU_OUT_reg[6]
+  Impl DFF        Imp:/WORK/SYS_TOP/ALU_UNIT/ALU_OUT_reg[6]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/ALU_UNIT/ALU_OUT_reg[7]
+  Impl DFF        Imp:/WORK/SYS_TOP/ALU_UNIT/ALU_OUT_reg[7]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/ALU_UNIT/ALU_OUT_reg[8]
+  Impl DFF        Imp:/WORK/SYS_TOP/ALU_UNIT/ALU_OUT_reg[8]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/ALU_UNIT/ALU_OUT_reg[9]
+  Impl DFF        Imp:/WORK/SYS_TOP/ALU_UNIT/ALU_OUT_reg[9]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/CLK_DIV_RX_UNIT/DIV_CLK_reg_reg
+  Impl DFF        Imp:/WORK/SYS_TOP/CLK_DIV_RX_UNIT/DIV_CLK_reg_reg
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/CLK_DIV_RX_UNIT/ODD_EDGE_FLAG_reg
+  Impl DFF        Imp:/WORK/SYS_TOP/CLK_DIV_RX_UNIT/ODD_EDGE_FLAG_reg
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/CLK_DIV_RX_UNIT/counter_reg[0]
+  Impl DFF        Imp:/WORK/SYS_TOP/CLK_DIV_RX_UNIT/counter_reg[0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/CLK_DIV_RX_UNIT/counter_reg[1]
+  Impl DFF        Imp:/WORK/SYS_TOP/CLK_DIV_RX_UNIT/counter_reg[1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/CLK_DIV_RX_UNIT/counter_reg[2]
+  Impl DFF        Imp:/WORK/SYS_TOP/CLK_DIV_RX_UNIT/counter_reg[2]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/CLK_DIV_RX_UNIT/counter_reg[3]
+  Impl DFF        Imp:/WORK/SYS_TOP/CLK_DIV_RX_UNIT/counter_reg[3]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/CLK_DIV_RX_UNIT/counter_reg[4]
+  Impl DFF        Imp:/WORK/SYS_TOP/CLK_DIV_RX_UNIT/counter_reg[4]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/CLK_DIV_RX_UNIT/counter_reg[5]
+  Impl DFF        Imp:/WORK/SYS_TOP/CLK_DIV_RX_UNIT/counter_reg[5]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/CLK_DIV_RX_UNIT/counter_reg[6]
+  Impl DFF        Imp:/WORK/SYS_TOP/CLK_DIV_RX_UNIT/counter_reg[6]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/CLK_DIV_TX_UNIT/DIV_CLK_reg_reg
+  Impl DFF        Imp:/WORK/SYS_TOP/CLK_DIV_TX_UNIT/DIV_CLK_reg_reg
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/CLK_DIV_TX_UNIT/ODD_EDGE_FLAG_reg
+  Impl DFF        Imp:/WORK/SYS_TOP/CLK_DIV_TX_UNIT/ODD_EDGE_FLAG_reg
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/CLK_DIV_TX_UNIT/counter_reg[0]
+  Impl DFF        Imp:/WORK/SYS_TOP/CLK_DIV_TX_UNIT/counter_reg[0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/CLK_DIV_TX_UNIT/counter_reg[1]
+  Impl DFF        Imp:/WORK/SYS_TOP/CLK_DIV_TX_UNIT/counter_reg[1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/CLK_DIV_TX_UNIT/counter_reg[2]
+  Impl DFF        Imp:/WORK/SYS_TOP/CLK_DIV_TX_UNIT/counter_reg[2]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/CLK_DIV_TX_UNIT/counter_reg[3]
+  Impl DFF        Imp:/WORK/SYS_TOP/CLK_DIV_TX_UNIT/counter_reg[3]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/CLK_DIV_TX_UNIT/counter_reg[4]
+  Impl DFF        Imp:/WORK/SYS_TOP/CLK_DIV_TX_UNIT/counter_reg[4]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/CLK_DIV_TX_UNIT/counter_reg[5]
+  Impl DFF        Imp:/WORK/SYS_TOP/CLK_DIV_TX_UNIT/counter_reg[5]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/CLK_DIV_TX_UNIT/counter_reg[6]
+  Impl DFF        Imp:/WORK/SYS_TOP/CLK_DIV_TX_UNIT/counter_reg[6]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/DATA_SYNC_UNIT/ENABLE_PULSE_reg
+  Impl DFF        Imp:/WORK/SYS_TOP/DATA_SYNC_UNIT/ENABLE_PULSE_reg
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/DATA_SYNC_UNIT/SYNC_BUS_reg[0]
+  Impl DFF        Imp:/WORK/SYS_TOP/DATA_SYNC_UNIT/SYNC_BUS_reg[0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/DATA_SYNC_UNIT/SYNC_BUS_reg[1]
+  Impl DFF        Imp:/WORK/SYS_TOP/DATA_SYNC_UNIT/SYNC_BUS_reg[1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/DATA_SYNC_UNIT/SYNC_BUS_reg[2]
+  Impl DFF        Imp:/WORK/SYS_TOP/DATA_SYNC_UNIT/SYNC_BUS_reg[2]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/DATA_SYNC_UNIT/SYNC_BUS_reg[3]
+  Impl DFF        Imp:/WORK/SYS_TOP/DATA_SYNC_UNIT/SYNC_BUS_reg[3]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/DATA_SYNC_UNIT/SYNC_BUS_reg[4]
+  Impl DFF        Imp:/WORK/SYS_TOP/DATA_SYNC_UNIT/SYNC_BUS_reg[4]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/DATA_SYNC_UNIT/SYNC_BUS_reg[5]
+  Impl DFF        Imp:/WORK/SYS_TOP/DATA_SYNC_UNIT/SYNC_BUS_reg[5]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/DATA_SYNC_UNIT/SYNC_BUS_reg[6]
+  Impl DFF        Imp:/WORK/SYS_TOP/DATA_SYNC_UNIT/SYNC_BUS_reg[6]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/DATA_SYNC_UNIT/SYNC_BUS_reg[7]
+  Impl DFF        Imp:/WORK/SYS_TOP/DATA_SYNC_UNIT/SYNC_BUS_reg[7]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/DATA_SYNC_UNIT/pulse_gen_d_reg
+  Impl DFF        Imp:/WORK/SYS_TOP/DATA_SYNC_UNIT/pulse_gen_d_reg
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/DATA_SYNC_UNIT/sync_reg_reg[0]
+  Impl DFF        Imp:/WORK/SYS_TOP/DATA_SYNC_UNIT/sync_reg_reg[0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/DATA_SYNC_UNIT/sync_reg_reg[1]
+  Impl DFF        Imp:/WORK/SYS_TOP/DATA_SYNC_UNIT/sync_reg_reg[1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[0][0]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[0][0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[0][1]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[0][1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[0][2]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[0][2]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[0][3]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[0][3]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[0][4]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[0][4]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[0][5]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[0][5]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[0][6]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[0][6]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[0][7]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[0][7]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[1][0]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[1][0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[1][1]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[1][1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[1][2]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[1][2]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[1][3]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[1][3]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[1][4]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[1][4]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[1][5]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[1][5]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[1][6]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[1][6]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[1][7]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[1][7]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[2][0]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[2][0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[2][1]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[2][1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[2][2]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[2][2]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[2][3]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[2][3]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[2][4]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[2][4]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[2][5]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[2][5]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[2][6]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[2][6]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[2][7]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[2][7]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[3][0]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[3][0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[3][1]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[3][1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[3][2]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[3][2]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[3][3]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[3][3]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[3][4]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[3][4]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[3][5]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[3][5]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[3][6]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[3][6]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[3][7]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[3][7]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[4][0]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[4][0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[4][1]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[4][1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[4][2]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[4][2]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[4][3]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[4][3]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[4][4]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[4][4]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[4][5]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[4][5]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[4][6]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[4][6]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[4][7]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[4][7]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[5][0]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[5][0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[5][1]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[5][1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[5][2]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[5][2]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[5][3]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[5][3]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[5][4]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[5][4]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[5][5]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[5][5]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[5][6]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[5][6]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[5][7]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[5][7]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[6][0]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[6][0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[6][1]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[6][1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[6][2]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[6][2]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[6][3]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[6][3]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[6][4]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[6][4]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[6][5]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[6][5]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[6][6]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[6][6]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[6][7]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[6][7]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[7][0]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[7][0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[7][1]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[7][1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[7][2]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[7][2]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[7][3]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[7][3]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[7][4]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[7][4]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[7][5]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[7][5]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[7][6]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[7][6]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[7][7]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/mem_UNIT/mem_reg[7][7]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/rptr_empty_UNIT/rbin_reg[0]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/rptr_empty_UNIT/rbin_reg[0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/rptr_empty_UNIT/rbin_reg[1]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/rptr_empty_UNIT/rbin_reg[1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/rptr_empty_UNIT/rbin_reg[2]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/rptr_empty_UNIT/rbin_reg[2]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/rptr_empty_UNIT/rbin_reg[3]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/rptr_empty_UNIT/rbin_reg[3]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/rptr_empty_UNIT/rempty_reg
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/rptr_empty_UNIT/rempty_reg
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/rptr_empty_UNIT/rptr_reg[0]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/rptr_empty_UNIT/rptr_reg[0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/rptr_empty_UNIT/rptr_reg[1]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/rptr_empty_UNIT/rptr_reg[1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/rptr_empty_UNIT/rptr_reg[2]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/rptr_empty_UNIT/rptr_reg[2]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/rptr_empty_UNIT/rptr_reg[3]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/rptr_empty_UNIT/rptr_reg[3]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/sync_r2w_UNIT/wq1_rptr_reg[0]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/sync_r2w_UNIT/wq1_rptr_reg[0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/sync_r2w_UNIT/wq1_rptr_reg[1]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/sync_r2w_UNIT/wq1_rptr_reg[1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/sync_r2w_UNIT/wq1_rptr_reg[2]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/sync_r2w_UNIT/wq1_rptr_reg[2]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/sync_r2w_UNIT/wq1_rptr_reg[3]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/sync_r2w_UNIT/wq1_rptr_reg[3]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/sync_r2w_UNIT/wq2_rptr_reg[0]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/sync_r2w_UNIT/wq2_rptr_reg[0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/sync_r2w_UNIT/wq2_rptr_reg[1]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/sync_r2w_UNIT/wq2_rptr_reg[1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/sync_r2w_UNIT/wq2_rptr_reg[2]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/sync_r2w_UNIT/wq2_rptr_reg[2]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/sync_r2w_UNIT/wq2_rptr_reg[3]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/sync_r2w_UNIT/wq2_rptr_reg[3]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/sync_w2r_UNIT/rq1_wptr_reg[0]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/sync_w2r_UNIT/rq1_wptr_reg[0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/sync_w2r_UNIT/rq1_wptr_reg[1]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/sync_w2r_UNIT/rq1_wptr_reg[1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/sync_w2r_UNIT/rq1_wptr_reg[2]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/sync_w2r_UNIT/rq1_wptr_reg[2]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/sync_w2r_UNIT/rq1_wptr_reg[3]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/sync_w2r_UNIT/rq1_wptr_reg[3]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/sync_w2r_UNIT/rq2_wptr_reg[0]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/sync_w2r_UNIT/rq2_wptr_reg[0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/sync_w2r_UNIT/rq2_wptr_reg[1]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/sync_w2r_UNIT/rq2_wptr_reg[1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/sync_w2r_UNIT/rq2_wptr_reg[2]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/sync_w2r_UNIT/rq2_wptr_reg[2]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/sync_w2r_UNIT/rq2_wptr_reg[3]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/sync_w2r_UNIT/rq2_wptr_reg[3]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/wptr_full_UNIT/wbin_reg[0]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/wptr_full_UNIT/wbin_reg[0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/wptr_full_UNIT/wbin_reg[1]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/wptr_full_UNIT/wbin_reg[1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/wptr_full_UNIT/wbin_reg[2]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/wptr_full_UNIT/wbin_reg[2]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/wptr_full_UNIT/wbin_reg[3]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/wptr_full_UNIT/wbin_reg[3]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/wptr_full_UNIT/wfull_reg
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/wptr_full_UNIT/wfull_reg
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/wptr_full_UNIT/wptr_reg[0]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/wptr_full_UNIT/wptr_reg[0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/wptr_full_UNIT/wptr_reg[1]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/wptr_full_UNIT/wptr_reg[1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/wptr_full_UNIT/wptr_reg[2]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/wptr_full_UNIT/wptr_reg[2]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/FIFO_UNIT/wptr_full_UNIT/wptr_reg[3]
+  Impl DFF        Imp:/WORK/SYS_TOP/FIFO_UNIT/wptr_full_UNIT/wptr_reg[3]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/PULSE_GEN_UNIT/PULSE_GEN_REG0_reg
+  Impl DFF        Imp:/WORK/SYS_TOP/PULSE_GEN_UNIT/PULSE_GEN_REG0_reg
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/PULSE_GEN_UNIT/PULSE_GEN_REG1_reg
+  Impl DFF        Imp:/WORK/SYS_TOP/PULSE_GEN_UNIT/PULSE_GEN_REG1_reg
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/RdData_Valid_reg
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/RdData_Valid_reg
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/RdData_reg[0]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/RdData_reg[0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/RdData_reg[1]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/RdData_reg[1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/RdData_reg[2]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/RdData_reg[2]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/RdData_reg[3]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/RdData_reg[3]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/RdData_reg[4]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/RdData_reg[4]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/RdData_reg[5]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/RdData_reg[5]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/RdData_reg[6]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/RdData_reg[6]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/RdData_reg[7]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/RdData_reg[7]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[0][0]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[0][0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[0][1]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[0][1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[0][2]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[0][2]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[0][3]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[0][3]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[0][4]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[0][4]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[0][5]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[0][5]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[0][6]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[0][6]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[0][7]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[0][7]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[10][0]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[10][0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[10][1]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[10][1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[10][2]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[10][2]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[10][3]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[10][3]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[10][4]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[10][4]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[10][5]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[10][5]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[10][6]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[10][6]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[10][7]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[10][7]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[11][0]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[11][0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[11][1]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[11][1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[11][2]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[11][2]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[11][3]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[11][3]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[11][4]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[11][4]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[11][5]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[11][5]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[11][6]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[11][6]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[11][7]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[11][7]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[12][0]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[12][0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[12][1]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[12][1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[12][2]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[12][2]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[12][3]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[12][3]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[12][4]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[12][4]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[12][5]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[12][5]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[12][6]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[12][6]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[12][7]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[12][7]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[13][0]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[13][0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[13][1]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[13][1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[13][2]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[13][2]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[13][3]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[13][3]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[13][4]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[13][4]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[13][5]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[13][5]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[13][6]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[13][6]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[13][7]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[13][7]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[14][0]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[14][0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[14][1]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[14][1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[14][2]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[14][2]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[14][3]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[14][3]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[14][4]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[14][4]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[14][5]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[14][5]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[14][6]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[14][6]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[14][7]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[14][7]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[15][0]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[15][0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[15][1]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[15][1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[15][2]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[15][2]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[15][3]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[15][3]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[15][4]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[15][4]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[15][5]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[15][5]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[15][6]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[15][6]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[15][7]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[15][7]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[1][0]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[1][0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[1][1]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[1][1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[1][2]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[1][2]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[1][3]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[1][3]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[1][4]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[1][4]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[1][5]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[1][5]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[1][6]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[1][6]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[1][7]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[1][7]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[2][0]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[2][0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[2][1]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[2][1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[2][2]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[2][2]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[2][3]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[2][3]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[2][4]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[2][4]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[2][5]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[2][5]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[2][6]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[2][6]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[2][7]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[2][7]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[3][0]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[3][0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[3][1]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[3][1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[3][2]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[3][2]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[3][3]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[3][3]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[3][4]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[3][4]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[3][5]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[3][5]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[3][6]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[3][6]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[3][7]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[3][7]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[4][0]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[4][0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[4][1]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[4][1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[4][2]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[4][2]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[4][3]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[4][3]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[4][4]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[4][4]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[4][5]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[4][5]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[4][6]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[4][6]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[4][7]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[4][7]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[5][0]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[5][0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[5][1]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[5][1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[5][2]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[5][2]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[5][3]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[5][3]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[5][4]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[5][4]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[5][5]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[5][5]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[5][6]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[5][6]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[5][7]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[5][7]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[6][0]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[6][0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[6][1]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[6][1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[6][2]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[6][2]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[6][3]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[6][3]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[6][4]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[6][4]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[6][5]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[6][5]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[6][6]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[6][6]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[6][7]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[6][7]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[7][0]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[7][0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[7][1]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[7][1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[7][2]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[7][2]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[7][3]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[7][3]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[7][4]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[7][4]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[7][5]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[7][5]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[7][6]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[7][6]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[7][7]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[7][7]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[8][0]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[8][0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[8][1]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[8][1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[8][2]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[8][2]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[8][3]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[8][3]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[8][4]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[8][4]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[8][5]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[8][5]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[8][6]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[8][6]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[8][7]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[8][7]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[9][0]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[9][0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[9][1]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[9][1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[9][2]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[9][2]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[9][3]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[9][3]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[9][4]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[9][4]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[9][5]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[9][5]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[9][6]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[9][6]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[9][7]
+  Impl DFF        Imp:/WORK/SYS_TOP/REG_FILE_UNIT/mem_reg[9][7]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/RST_SYNC_REF_UNIT/sync_reg_reg[0]
+  Impl DFF        Imp:/WORK/SYS_TOP/RST_SYNC_REF_UNIT/sync_reg_reg[0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/RST_SYNC_REF_UNIT/sync_reg_reg[1]
+  Impl DFF        Imp:/WORK/SYS_TOP/RST_SYNC_REF_UNIT/sync_reg_reg[1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/RST_SYNC_UART_UNIT/sync_reg_reg[0]
+  Impl DFF        Imp:/WORK/SYS_TOP/RST_SYNC_UART_UNIT/sync_reg_reg[0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/RST_SYNC_UART_UNIT/sync_reg_reg[1]
+  Impl DFF        Imp:/WORK/SYS_TOP/RST_SYNC_UART_UNIT/sync_reg_reg[1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/SYS_CTRL_UNIT/ALU_OUTPUT_REG_reg[0]
+  Impl DFF        Imp:/WORK/SYS_TOP/SYS_CTRL_UNIT/ALU_OUTPUT_REG_reg[0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/SYS_CTRL_UNIT/ALU_OUTPUT_REG_reg[10]
+  Impl DFF        Imp:/WORK/SYS_TOP/SYS_CTRL_UNIT/ALU_OUTPUT_REG_reg[10]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/SYS_CTRL_UNIT/ALU_OUTPUT_REG_reg[11]
+  Impl DFF        Imp:/WORK/SYS_TOP/SYS_CTRL_UNIT/ALU_OUTPUT_REG_reg[11]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/SYS_CTRL_UNIT/ALU_OUTPUT_REG_reg[12]
+  Impl DFF        Imp:/WORK/SYS_TOP/SYS_CTRL_UNIT/ALU_OUTPUT_REG_reg[12]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/SYS_CTRL_UNIT/ALU_OUTPUT_REG_reg[13]
+  Impl DFF        Imp:/WORK/SYS_TOP/SYS_CTRL_UNIT/ALU_OUTPUT_REG_reg[13]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/SYS_CTRL_UNIT/ALU_OUTPUT_REG_reg[14]
+  Impl DFF        Imp:/WORK/SYS_TOP/SYS_CTRL_UNIT/ALU_OUTPUT_REG_reg[14]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/SYS_CTRL_UNIT/ALU_OUTPUT_REG_reg[15]
+  Impl DFF        Imp:/WORK/SYS_TOP/SYS_CTRL_UNIT/ALU_OUTPUT_REG_reg[15]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/SYS_CTRL_UNIT/ALU_OUTPUT_REG_reg[1]
+  Impl DFF        Imp:/WORK/SYS_TOP/SYS_CTRL_UNIT/ALU_OUTPUT_REG_reg[1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/SYS_CTRL_UNIT/ALU_OUTPUT_REG_reg[2]
+  Impl DFF        Imp:/WORK/SYS_TOP/SYS_CTRL_UNIT/ALU_OUTPUT_REG_reg[2]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/SYS_CTRL_UNIT/ALU_OUTPUT_REG_reg[3]
+  Impl DFF        Imp:/WORK/SYS_TOP/SYS_CTRL_UNIT/ALU_OUTPUT_REG_reg[3]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/SYS_CTRL_UNIT/ALU_OUTPUT_REG_reg[4]
+  Impl DFF        Imp:/WORK/SYS_TOP/SYS_CTRL_UNIT/ALU_OUTPUT_REG_reg[4]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/SYS_CTRL_UNIT/ALU_OUTPUT_REG_reg[5]
+  Impl DFF        Imp:/WORK/SYS_TOP/SYS_CTRL_UNIT/ALU_OUTPUT_REG_reg[5]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/SYS_CTRL_UNIT/ALU_OUTPUT_REG_reg[6]
+  Impl DFF        Imp:/WORK/SYS_TOP/SYS_CTRL_UNIT/ALU_OUTPUT_REG_reg[6]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/SYS_CTRL_UNIT/ALU_OUTPUT_REG_reg[7]
+  Impl DFF        Imp:/WORK/SYS_TOP/SYS_CTRL_UNIT/ALU_OUTPUT_REG_reg[7]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/SYS_CTRL_UNIT/ALU_OUTPUT_REG_reg[8]
+  Impl DFF        Imp:/WORK/SYS_TOP/SYS_CTRL_UNIT/ALU_OUTPUT_REG_reg[8]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/SYS_CTRL_UNIT/ALU_OUTPUT_REG_reg[9]
+  Impl DFF        Imp:/WORK/SYS_TOP/SYS_CTRL_UNIT/ALU_OUTPUT_REG_reg[9]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/SYS_CTRL_UNIT/RF_ADDR_REG_reg[0]
+  Impl DFF        Imp:/WORK/SYS_TOP/SYS_CTRL_UNIT/RF_ADDR_REG_reg[0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/SYS_CTRL_UNIT/RF_ADDR_REG_reg[1]
+  Impl DFF        Imp:/WORK/SYS_TOP/SYS_CTRL_UNIT/RF_ADDR_REG_reg[1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/SYS_CTRL_UNIT/RF_ADDR_REG_reg[2]
+  Impl DFF        Imp:/WORK/SYS_TOP/SYS_CTRL_UNIT/RF_ADDR_REG_reg[2]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/SYS_CTRL_UNIT/RF_ADDR_REG_reg[3]
+  Impl DFF        Imp:/WORK/SYS_TOP/SYS_CTRL_UNIT/RF_ADDR_REG_reg[3]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/SYS_CTRL_UNIT/current_state_reg[0]
+  Impl DFF        Imp:/WORK/SYS_TOP/SYS_CTRL_UNIT/current_state_reg[0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/SYS_CTRL_UNIT/current_state_reg[1]
+  Impl DFF        Imp:/WORK/SYS_TOP/SYS_CTRL_UNIT/current_state_reg[1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/SYS_CTRL_UNIT/current_state_reg[2]
+  Impl DFF        Imp:/WORK/SYS_TOP/SYS_CTRL_UNIT/current_state_reg[2]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/SYS_CTRL_UNIT/current_state_reg[3]
+  Impl DFF        Imp:/WORK/SYS_TOP/SYS_CTRL_UNIT/current_state_reg[3]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/FSM_RX_UNIT/current_state_reg[0]
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/FSM_RX_UNIT/current_state_reg[0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/FSM_RX_UNIT/current_state_reg[1]
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/FSM_RX_UNIT/current_state_reg[1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/FSM_RX_UNIT/current_state_reg[2]
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/FSM_RX_UNIT/current_state_reg[2]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/data_sampling_UNIT/sampled_bit_reg
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/data_sampling_UNIT/sampled_bit_reg
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/data_sampling_UNIT/samples_reg[0]
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/data_sampling_UNIT/samples_reg[0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/data_sampling_UNIT/samples_reg[1]
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/data_sampling_UNIT/samples_reg[1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/data_sampling_UNIT/samples_reg[2]
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/data_sampling_UNIT/samples_reg[2]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/deserializer_UNIT/P_DATA_reg[0]
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/deserializer_UNIT/P_DATA_reg[0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/deserializer_UNIT/P_DATA_reg[1]
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/deserializer_UNIT/P_DATA_reg[1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/deserializer_UNIT/P_DATA_reg[2]
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/deserializer_UNIT/P_DATA_reg[2]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/deserializer_UNIT/P_DATA_reg[3]
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/deserializer_UNIT/P_DATA_reg[3]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/deserializer_UNIT/P_DATA_reg[4]
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/deserializer_UNIT/P_DATA_reg[4]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/deserializer_UNIT/P_DATA_reg[5]
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/deserializer_UNIT/P_DATA_reg[5]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/deserializer_UNIT/P_DATA_reg[6]
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/deserializer_UNIT/P_DATA_reg[6]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/deserializer_UNIT/P_DATA_reg[7]
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/deserializer_UNIT/P_DATA_reg[7]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/edge_bit_counter_UNIT/bit_cnt_reg[0]
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/edge_bit_counter_UNIT/bit_cnt_reg[0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/edge_bit_counter_UNIT/bit_cnt_reg[1]
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/edge_bit_counter_UNIT/bit_cnt_reg[1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/edge_bit_counter_UNIT/bit_cnt_reg[2]
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/edge_bit_counter_UNIT/bit_cnt_reg[2]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/edge_bit_counter_UNIT/bit_cnt_reg[3]
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/edge_bit_counter_UNIT/bit_cnt_reg[3]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/edge_bit_counter_UNIT/edge_cnt_reg[0]
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/edge_bit_counter_UNIT/edge_cnt_reg[0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/edge_bit_counter_UNIT/edge_cnt_reg[1]
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/edge_bit_counter_UNIT/edge_cnt_reg[1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/edge_bit_counter_UNIT/edge_cnt_reg[2]
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/edge_bit_counter_UNIT/edge_cnt_reg[2]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/edge_bit_counter_UNIT/edge_cnt_reg[3]
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/edge_bit_counter_UNIT/edge_cnt_reg[3]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/edge_bit_counter_UNIT/edge_cnt_reg[4]
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/edge_bit_counter_UNIT/edge_cnt_reg[4]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/edge_bit_counter_UNIT/edge_cnt_reg[5]
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/edge_bit_counter_UNIT/edge_cnt_reg[5]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/parity_check_UNIT/par_err_reg
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/parity_check_UNIT/par_err_reg
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/start_check_UNIT/start_glitch_reg
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/start_check_UNIT/start_glitch_reg
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/stop_check_UNIT/stop_err_reg
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_RX_UNIT/stop_check_UNIT/stop_err_reg
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_TX_UNIT/FSM_TX_unit/Busy_reg
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_TX_UNIT/FSM_TX_unit/Busy_reg
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_TX_UNIT/FSM_TX_unit/current_state_reg[0]
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_TX_UNIT/FSM_TX_unit/current_state_reg[0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_TX_UNIT/FSM_TX_unit/current_state_reg[1]
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_TX_UNIT/FSM_TX_unit/current_state_reg[1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_TX_UNIT/FSM_TX_unit/current_state_reg[2]
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_TX_UNIT/FSM_TX_unit/current_state_reg[2]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_TX_UNIT/MUX_unit/MUX_OUT_reg
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_TX_UNIT/MUX_unit/MUX_OUT_reg
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_TX_UNIT/parity_calc_unit/P_DATA_REG_reg[0]
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_TX_UNIT/parity_calc_unit/P_DATA_REG_reg[0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_TX_UNIT/parity_calc_unit/P_DATA_REG_reg[1]
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_TX_UNIT/parity_calc_unit/P_DATA_REG_reg[1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_TX_UNIT/parity_calc_unit/P_DATA_REG_reg[2]
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_TX_UNIT/parity_calc_unit/P_DATA_REG_reg[2]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_TX_UNIT/parity_calc_unit/P_DATA_REG_reg[3]
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_TX_UNIT/parity_calc_unit/P_DATA_REG_reg[3]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_TX_UNIT/parity_calc_unit/P_DATA_REG_reg[4]
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_TX_UNIT/parity_calc_unit/P_DATA_REG_reg[4]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_TX_UNIT/parity_calc_unit/P_DATA_REG_reg[5]
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_TX_UNIT/parity_calc_unit/P_DATA_REG_reg[5]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_TX_UNIT/parity_calc_unit/P_DATA_REG_reg[6]
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_TX_UNIT/parity_calc_unit/P_DATA_REG_reg[6]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_TX_UNIT/parity_calc_unit/P_DATA_REG_reg[7]
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_TX_UNIT/parity_calc_unit/P_DATA_REG_reg[7]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_TX_UNIT/parity_calc_unit/par_bit_reg
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_TX_UNIT/parity_calc_unit/par_bit_reg
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_TX_UNIT/serializer_unit/P_DATA_REG_reg[0]
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_TX_UNIT/serializer_unit/P_DATA_REG_reg[0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_TX_UNIT/serializer_unit/P_DATA_REG_reg[1]
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_TX_UNIT/serializer_unit/P_DATA_REG_reg[1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_TX_UNIT/serializer_unit/P_DATA_REG_reg[2]
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_TX_UNIT/serializer_unit/P_DATA_REG_reg[2]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_TX_UNIT/serializer_unit/P_DATA_REG_reg[3]
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_TX_UNIT/serializer_unit/P_DATA_REG_reg[3]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_TX_UNIT/serializer_unit/P_DATA_REG_reg[4]
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_TX_UNIT/serializer_unit/P_DATA_REG_reg[4]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_TX_UNIT/serializer_unit/P_DATA_REG_reg[5]
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_TX_UNIT/serializer_unit/P_DATA_REG_reg[5]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_TX_UNIT/serializer_unit/P_DATA_REG_reg[6]
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_TX_UNIT/serializer_unit/P_DATA_REG_reg[6]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_TX_UNIT/serializer_unit/P_DATA_REG_reg[7]
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_TX_UNIT/serializer_unit/P_DATA_REG_reg[7]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_TX_UNIT/serializer_unit/SER_COUNTER_reg[0]
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_TX_UNIT/serializer_unit/SER_COUNTER_reg[0]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_TX_UNIT/serializer_unit/SER_COUNTER_reg[1]
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_TX_UNIT/serializer_unit/SER_COUNTER_reg[1]
+
+  Ref  DFF        Ref:/WORK/SYS_TOP/UART_UNIT/UART_TX_UNIT/serializer_unit/SER_COUNTER_reg[2]
+  Impl DFF        Imp:/WORK/SYS_TOP/UART_UNIT/UART_TX_UNIT/serializer_unit/SER_COUNTER_reg[2]
+
+  Ref  Port       Ref:/WORK/SYS_TOP/Stop_Error
+  Impl Port       Imp:/WORK/SYS_TOP/Stop_Error
+
+  Ref  Port       Ref:/WORK/SYS_TOP/TX_OUT
+  Impl Port       Imp:/WORK/SYS_TOP/TX_OUT
+
+  Ref  Port       Ref:/WORK/SYS_TOP/parity_error
+  Impl Port       Imp:/WORK/SYS_TOP/parity_error
+
+ [BBNet: multiply-driven net
+  BBPin: black-box pin
+  Cut:   cut-point
+  DFF:   non-constant DFF register
+  DFF0:  constant 0 DFF register
+  DFF1:  constant 1 DFF register
+  DFFX:  constant X DFF register
+  DFF0X: constrained 0X DFF register
+  DFF1X: constrained 1X DFF register
+  LAT:   non-constant latch register
+  LAT0:  constant 0 latch register
+  LAT1:  constant 1 latch register
+  LATX:  constant X latch register
+  LAT0X: constrained 0X latch register
+  LAT1X: constrained 1X latch register
+  LATCG: clock-gating latch register
+  TLA:   transparent latch register
+  TLA0X: transparent constrained 0X latch register
+  TLA1X: transparent constrained 1X latch register
+  Loop:  cycle break point
+  Port:  primary (top-level) port
+  Und:   undriven signal cut-point
+  Unk:   unknown signal cut-point]
+
+1

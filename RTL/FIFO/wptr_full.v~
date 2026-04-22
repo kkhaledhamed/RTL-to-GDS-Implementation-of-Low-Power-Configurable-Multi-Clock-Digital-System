@@ -1,0 +1,49 @@
+module wptr_full #(
+    parameter ADDRSIZE = 3
+)(
+    output reg                 wfull,     // FIFO full flag
+    output wire [ADDRSIZE-1:0] waddr,     // memory write address (binary)
+    output reg  [ADDRSIZE  :0] wptr,      // Gray-coded write pointer
+    input       [ADDRSIZE  :0] wq2_rptr,  // synchronized read pointer
+    input                      winc,      // write increment
+    input                      wclk, wrst_n
+);
+
+    // Internal binary write pointer
+    reg [ADDRSIZE:0] wbin;
+    reg [ADDRSIZE:0] wbin_next, wgray_next;
+    reg wfull_next;
+
+    // Compute next binary and Gray pointers
+    always @(*) begin
+        wbin_next  = wbin + ((winc & ~wfull) ? 1'b1 : 1'b0);
+        wgray_next = (wbin_next >> 1) ^ wbin_next;// Convert binary to Gray code
+
+        // Full condition check:
+        // MSBs must be inverted and Lower bits must match
+        wfull_next = (wgray_next == {~wq2_rptr[ADDRSIZE:ADDRSIZE-1], wq2_rptr[ADDRSIZE-2:0]});
+          //-----------------------------------------------------------------
+          // Simplified version:
+          // assign wfull_val=((wgray_next[ADDRSIZE]     !=  wq2_rptr[ADDRSIZE]  ) &&
+          //                   (wgray_next[ADDRSIZE-1]   !=  wq2_rptr[ADDRSIZE-1]) &&
+          //                   (wgray_next[ADDRSIZE-2:0] ==  wq2_rptr[ADDRSIZE-2:0]));
+          //------------------------------------------------------------------
+    end
+
+    // Update pointers & Full flag
+    always @(posedge wclk or negedge wrst_n) begin
+        if (!wrst_n) begin
+            wbin  <= '0;
+            wptr  <= '0;
+            wfull <= 1'b0;
+        end else begin
+            wbin  <= wbin_next;
+            wptr  <= wgray_next;
+            wfull <= wfull_next;
+        end
+    end
+
+    // Binary address to access memory
+    assign waddr = wbin[ADDRSIZE-1:0];
+
+endmodule

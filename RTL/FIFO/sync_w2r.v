@@ -1,0 +1,22 @@
+module sync_w2r #(
+    parameter ADDRSIZE = 3
+)(
+    input  wire              rclk,    // read clock
+    input  wire              rrst_n,  // active-low reset
+    input  wire [ADDRSIZE:0] wptr,    // Gray-coded write pointer
+    output reg  [ADDRSIZE:0] rq2_wptr // synced write pointer (to rclk domain)
+);
+
+    // Internal stage-1 synchronizer register
+    reg [ADDRSIZE:0] rq1_wptr;
+
+    always @(posedge rclk or negedge rrst_n) begin 
+        if (!rrst_n) begin
+            rq1_wptr  <= 0;
+            rq2_wptr  <= 0;
+        end else begin
+            rq1_wptr  <= wptr;
+            rq2_wptr  <= rq1_wptr;
+        end
+    end
+endmodule

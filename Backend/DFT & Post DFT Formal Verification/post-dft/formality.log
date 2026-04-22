@@ -1,0 +1,31 @@
+Info:  Net Ref:/WORK/SYS_TOP_dft/SO[3] is undriven.
+Info:  Net Ref:/WORK/SYS_TOP_dft/SO[2] is undriven.
+Info:  Net Ref:/WORK/SYS_TOP_dft/SO[1] is undriven.
+Info:  Net Ref:/WORK/SYS_TOP_dft/SO[0] is undriven.
+Info:  Net Ref:/WORK/UART_RX_UART_DATA_WIDTH8/stop_err is undriven.
+Info:  Net Ref:/WORK/UART_RX_UART_DATA_WIDTH8/par_err is undriven.
+Info:  Net Imp:/WORK/ALU_N8_OPERAND_WIDTH8_FUN_WIDTH4_ALU_OUTPUT_WIDTH16_DW_div_uns_0/remainder[7] is undriven.
+Info:  Net Imp:/WORK/ALU_N8_OPERAND_WIDTH8_FUN_WIDTH4_ALU_OUTPUT_WIDTH16_DW_div_uns_0/remainder[6] is undriven.
+Info:  Net Imp:/WORK/ALU_N8_OPERAND_WIDTH8_FUN_WIDTH4_ALU_OUTPUT_WIDTH16_DW_div_uns_0/remainder[5] is undriven.
+Info:  Net Imp:/WORK/ALU_N8_OPERAND_WIDTH8_FUN_WIDTH4_ALU_OUTPUT_WIDTH16_DW_div_uns_0/remainder[4] is undriven.
+Info:  Net Imp:/WORK/ALU_N8_OPERAND_WIDTH8_FUN_WIDTH4_ALU_OUTPUT_WIDTH16_DW_div_uns_0/remainder[3] is undriven.
+Info:  Net Imp:/WORK/ALU_N8_OPERAND_WIDTH8_FUN_WIDTH4_ALU_OUTPUT_WIDTH16_DW_div_uns_0/remainder[2] is undriven.
+Info:  Net Imp:/WORK/ALU_N8_OPERAND_WIDTH8_FUN_WIDTH4_ALU_OUTPUT_WIDTH16_DW_div_uns_0/remainder[1] is undriven.
+Info:  Net Imp:/WORK/ALU_N8_OPERAND_WIDTH8_FUN_WIDTH4_ALU_OUTPUT_WIDTH16_DW_div_uns_0/remainder[0] is undriven.
+Info:  Net Imp:/WORK/ALU_N8_OPERAND_WIDTH8_FUN_WIDTH4_ALU_OUTPUT_WIDTH16_DW_div_uns_0/divide_by_0 is undriven.
+Info:  Net Imp:/WORK/ALU_N8_OPERAND_WIDTH8_FUN_WIDTH4_ALU_OUTPUT_WIDTH16_DW01_sub_0/CO is undriven.
+Info:  Net Imp:/WORK/ALU_N8_OPERAND_WIDTH8_FUN_WIDTH4_ALU_OUTPUT_WIDTH16_DW01_add_0/CO is undriven.
+Info:  Net Imp:/WORK/ALU_N8_OPERAND_WIDTH8_FUN_WIDTH4_ALU_OUTPUT_WIDTH16_DW01_add_1/CO is undriven.
+Info:  guide_uniquify 98 (Line: 691)  Cannot find object "CLK_DIV_RX_UNIT/U11" in design 'SYS_TOP_dft'.
+Info:  SVF Operation 98 (Line: 691) - uniquify.  Status: rejected
+Info:  guide_uniquify 98 (Line: 691)  Cannot find object "CLK_DIV_TX_UNIT/U11" in design 'SYS_TOP_dft'.
+Info:  guide_uniquify 98 (Line: 691)  Cannot find object "U6_mux2X1/U1" in design 'SYS_TOP_dft'.
+Info:  guide_uniquify 98 (Line: 691)  Cannot find object "U5_mux2X1/U1" in design 'SYS_TOP_dft'.
+Info:  guide_uniquify 98 (Line: 691)  Cannot find object "U4_mux2X1/U1" in design 'SYS_TOP_dft'.
+Info:  guide_uniquify 98 (Line: 691)  Cannot find object "U3_mux2X1/U1" in design 'SYS_TOP_dft'.
+Info:  guide_uniquify 98 (Line: 691)  Cannot find object "U2_mux2X1/U1" in design 'SYS_TOP_dft'.
+Info:  guide_uniquify 98 (Line: 691)  Cannot find object "U1_mux2X1/U1" in design 'SYS_TOP_dft'.
+Info:  guide_uniquify 98 (Line: 691)  Cannot find object "U0_mux2X1/U1" in design 'SYS_TOP_dft'.
+Info:  guide_uniquify 106 (Line: 744)  Cannot find object "ALU_UNIT/dp_cluster_0/mult_38" in design 'SYS_TOP_dft'.
+Info:  Pre-verification of Ref:/WORK/ALU_N8_OPERAND_WIDTH8_FUN_WIDTH4_ALU_OUTPUT_WIDTH16/div_46 SUCCEEDED.
+Info:  Pre-verification of Ref:/WORK/ALU_N8_OPERAND_WIDTH8_FUN_WIDTH4_ALU_OUTPUT_WIDTH16/mult_38 SUCCEEDED.
