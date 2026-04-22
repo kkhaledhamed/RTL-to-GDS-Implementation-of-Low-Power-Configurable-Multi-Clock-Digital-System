@@ -1,6 +1,5 @@
 # RTL-to-GDS-Implementation-of-Low-Power-Configurable-Multi-Clock-Digital-System
-# UART-Based ALU & Register File Control System  
-## Digital IC Design Project  
+## Digital IC Design (RTL TO GDSII) Project  
 
 ## 📌 Project Overview  
 This repository contains the complete RTL-to-GDSII flow for a **UART-controlled system** that performs ALU and Register File operations. The design features dual-clock domains, clock gating, asynchronous FIFO, and full DFT insertion with scan chains.  
